@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "262249814176",
+    "firebase_url": "https://gcm-mora-app.firebaseio.com",
+    "project_id": "gcm-mora-app",
+    "storage_bucket": "gcm-mora-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262249814176:android:f9c3d1c4f581a546",
+        "android_client_info": {
+          "package_name": "com.scheme.moraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262249814176-lipgud3tqkdjlcfo558oan37b1nocs34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKc-CDyuZbiC0-igtTNOP9NAeJtV5A1_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
