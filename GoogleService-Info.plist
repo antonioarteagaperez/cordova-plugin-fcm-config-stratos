@@ -1,1 +1,40 @@
-<!-- Dummy GoogleService-Info file !! replace with your configuration -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>262249814176-6jj623hbr4gfrg69eoiecgb8gis06nmk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262249814176-6jj623hbr4gfrg69eoiecgb8gis06nmk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNBJkpb6L9ds0Z3A_tTT3Tz5qmPiZx6ro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262249814176</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.scheme.moraapp</string>
+	<key>PROJECT_ID</key>
+	<string>gcm-mora-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gcm-mora-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262249814176:ios:f9c3d1c4f581a546</string>
+	<key>DATABASE_URL</key>
+	<string>https://gcm-mora-app.firebaseio.com</string>
+</dict>
+</plist>
