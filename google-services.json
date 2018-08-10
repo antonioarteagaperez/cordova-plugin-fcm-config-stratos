@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "262249814176",
-    "firebase_url": "https://gcm-mora-app.firebaseio.com",
-    "project_id": "gcm-mora-app",
-    "storage_bucket": "gcm-mora-app.appspot.com"
+    "project_number": "474490524896",
+    "firebase_url": "https://fir-fine.firebaseio.com",
+    "project_id": "fir-fine",
+    "storage_bucket": "fir-fine.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:262249814176:android:f9c3d1c4f581a546",
+        "mobilesdk_app_id": "1:474490524896:android:e3d9d3178243c4db",
         "android_client_info": {
-          "package_name": "com.scheme.moraapp"
+          "package_name": "es.federacionfine.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "262249814176-lipgud3tqkdjlcfo558oan37b1nocs34.apps.googleusercontent.com",
+          "client_id": "474490524896-4346opj7c93vdcn8c65skjpnujdr9uhh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDKc-CDyuZbiC0-igtTNOP9NAeJtV5A1_Y"
+          "current_key": "AIzaSyB4uquLw4HeRW11O_sETS4qw6Z50Tz9O4A"
         }
       ],
       "services": {
