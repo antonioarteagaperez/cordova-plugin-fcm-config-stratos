@@ -1,5 +1,5 @@
 {
-    "name": "cordova-plugin-fcm-config-fine",
+    "name": "cordova-plugin-fcm-config-stratos",
     "version": "1.0.0",
     "description": "This plugin copies the required fcm configurations in the project folder",
     "scripts": {
