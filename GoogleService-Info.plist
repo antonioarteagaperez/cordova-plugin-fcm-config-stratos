@@ -2,28 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
-	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>474490524896-fjjiaq4i1tie8u4rg9s1rf8mgh85jjjv.apps.googleusercontent.com</string>
+	<string>246021653888-ejc23otfljbmoharlt232426uiguuqlv.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.474490524896-fjjiaq4i1tie8u4rg9s1rf8mgh85jjjv</string>
+	<string>com.googleusercontent.apps.246021653888-ejc23otfljbmoharlt232426uiguuqlv</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC8t54lZcWiAOe4wWIRTl_DfWCEVG50byA</string>
+	<string>AIzaSyCBG6-qhh3Di0ulDvP7Z7TiQL5JFf4iJmI</string>
 	<key>GCM_SENDER_ID</key>
-	<string>474490524896</string>
+	<string>246021653888</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>es.federacionfine.app</string>
+	<string>com.stratos.ad.app</string>
 	<key>PROJECT_ID</key>
-	<string>fir-fine</string>
+	<string>stratos-ba6c9</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fir-fine.appspot.com</string>
+	<string>stratos-ba6c9.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
@@ -33,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:474490524896:ios:e3d9d3178243c4db</string>
+	<string>1:246021653888:ios:b4ff622bb94a7a3e</string>
 	<key>DATABASE_URL</key>
-	<string>https://fir-fine.firebaseio.com</string>
+	<string>https://stratos-ba6c9.firebaseio.com</string>
 </dict>
 </plist>
