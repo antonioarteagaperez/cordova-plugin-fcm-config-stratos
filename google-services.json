@@ -1,39 +1,32 @@
 {
   "project_info": {
-    "project_number": "474490524896",
-    "firebase_url": "https://fir-fine.firebaseio.com",
-    "project_id": "fir-fine",
-    "storage_bucket": "fir-fine.appspot.com"
+    "project_number": "246021653888",
+    "firebase_url": "https://stratos-ba6c9.firebaseio.com",
+    "project_id": "stratos-ba6c9",
+    "storage_bucket": "stratos-ba6c9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:474490524896:android:e3d9d3178243c4db",
+        "mobilesdk_app_id": "1:246021653888:android:b4ff622bb94a7a3e",
         "android_client_info": {
-          "package_name": "es.federacionfine.app"
+          "package_name": "com.stratos.ad.app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "474490524896-4346opj7c93vdcn8c65skjpnujdr9uhh.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB4uquLw4HeRW11O_sETS4qw6Z50Tz9O4A"
+          "current_key": "AIzaSyC1jnobY2TU0-N_xZ8WrLYknIjXlIEFXHU"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246021653888-f9j8nhplegitvnmmts7b8c38phs474a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
